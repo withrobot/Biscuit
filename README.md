@@ -21,7 +21,7 @@ Biscuit은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 센�
 * 프로토콜: 802.11 b/g/n
 
 ### 내장 MCU
-* CPU: 32-bit, 26 MHz
+* CPU: 32-bit, 80 MHz
 * Flash Memory: 2 MB
 
 ### 지원 IDE
