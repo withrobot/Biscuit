@@ -31,9 +31,18 @@ Biscuit은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 센�
 * 소모 전력: 75mA(센서 및 Wi-Fi 비사용시)
 
 ## 외형
+
 ### 보드 Layout
 ![ScreenShot](Images/Layout.PNG)
-### 외부 
+
+### 외부
+![ScreenShot](Images/Biscuit_Front.jpg)
+![ScreenShot](Images/Biscuit_Back.jpg)
+![ScreenShot](Images/Biscuit_Battery.jpg)
+
 ## 관련 자료
+* 사용법 동영상 1: Arduino IDE 설치와 보드 설정 (https://youtu.be/Kj8zNXbm5S4)
+* 9축 센서(BNO055) 자료: https://www.bosch-sensortec.com/bst/products/all_products/bno055
+* Wi-Fi 모듈(ESP-WROOM-02) 자료: https://espressif.com/en/support/download/documents
 
 
