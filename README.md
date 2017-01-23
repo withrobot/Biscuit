@@ -36,8 +36,7 @@ Biscuit은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 센�
 ![ScreenShot](Images/Layout.PNG)
 
 ### 외부
-![ScreenShot](Images/Biscuit_Front.jpg)
-![ScreenShot](Images/Biscuit_Back.jpg)
+![ScreenShot](Images/Biscuit.jpg)
 ![ScreenShot](Images/Biscuit_Battery.jpg)
 
 ## 관련 자료
