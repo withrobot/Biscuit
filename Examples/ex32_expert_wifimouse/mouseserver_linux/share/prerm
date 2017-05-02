@@ -1,5 +1,0 @@
-#!/bin/sh
-
-/usr/bin/pkill -9 -x mouseserver
-
-exit 0
