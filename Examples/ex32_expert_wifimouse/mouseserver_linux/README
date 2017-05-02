@@ -1,0 +1,25 @@
+
+About:
+
+ This application was created by Williams <wangshimeng@gmail.com>.
+
+Build:
+
+ sh builddep.sh
+ mkdir build
+ cd build
+ cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr ..
+ cpack ..
+
+
+Install:
+
+ sudo make install
+
+ run /usr/sbin/mouseserver
+
+Or:
+
+ Double click mouseserver.deb file and let system install it to /usr/bin/
+
+Have fun!

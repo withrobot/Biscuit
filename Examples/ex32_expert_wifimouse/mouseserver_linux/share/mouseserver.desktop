@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/sbin/mouseserver
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Mouse Server for linux
+Comment=Mouse Server for Linux
+Categories=GNOME;GTK;Utility
+Icon=/usr/share/mouseserver/icons/ms-default.svg
