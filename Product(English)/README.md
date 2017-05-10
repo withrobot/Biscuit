@@ -52,7 +52,7 @@ The BiscuitTM can be operated using USB bus power or battery to be used as an in
 ![ScreenShot](../Images/Biscuit_Battery.jpg)
 
 ## 관련 자료
-* Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgy)
+* Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgyY)
 * How to install the driver for BiscuitTM on Windows 7: (https://youtu.be/whfFNCH7KTk)
 * Library installation using the Library Manager: (https://youtu.be/Scuj9SRVPwY) 
 * Manual installation of libraries: (https://youtu.be/OV9ARozB2uk)
