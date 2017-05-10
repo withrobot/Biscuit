@@ -45,18 +45,18 @@ The BiscuitTM can be operated using USB bus power or battery to be used as an in
 * Input Voltage: 3.7 ~ 5.0 V
 
 ### Board Layout
-![ScreenShot](Images/Layout.PNG)
+![ScreenShot](../Images/Layout.PNG)
 
 ### Exterior
-![ScreenShot](Images/Biscuit.jpg)
-![ScreenShot](Images/Biscuit_Battery.jpg)
+![ScreenShot](../Images/Biscuit.jpg)
+![ScreenShot](../Images/Biscuit_Battery.jpg)
 
 ## 관련 자료
-* 사용법 동영상 1: Arduino IDE 설치와 보드 설정: (https://youtu.be/XbCacIAl4Ik)
-* 사용법 동영상 1-1: Windows 7에서 Biscuit 디바이스 드라이버 설치하기: (https://youtu.be/whfFNCH7KTk)
-* 사용법 동영상 2-A: Library Manager를 이용하여 라이브러리 설치하기: (https://youtu.be/Scuj9SRVPwY)
-* 사용법 동영상 2-B: 라이브러리 직접 설치하기: (https://youtu.be/OV9ARozB2uk)
-* 9축 센서(BNO055) 자료: https://www.bosch-sensortec.com/bst/products/all_products/bno055
-* Wi-Fi 모듈(ESP-WROOM-02) 자료: https://espressif.com/en/support/download/documents
+* Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgy)
+* How to install the driver for BiscuitTM on Windows 7: (https://youtu.be/whfFNCH7KTk)
+* Library installation using the Library Manager: (https://youtu.be/Scuj9SRVPwY) 
+* Manual installation of libraries: (https://youtu.be/OV9ARozB2uk)
+* Description of the 9-axis absolute orientation sensor - BNO055: (https://www.bosch-sensortec.com/bst/products/all_products/bno055)
+* Document of the Wi-Fi module - ESP-WROOM-02: (https://espressif.com/en/support/download/documents)
 
 
