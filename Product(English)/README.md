@@ -50,6 +50,10 @@ The BiscuitTM can be operated using USB bus power or battery to be used as an in
 ### Exterior
 ![ScreenShot](../Images/Biscuit.jpg)
 ![ScreenShot](../Images/Biscuit_Battery.jpg)
+![ScreenShot](../Images/Battery_connection_en.PNG)
+## Warning!!
+Incorrect battery connection can damage the BiscuitTM.</br>
+If your battery has different outputs from the one shown on the above picture, please use the accompanied cable to switch the polarity.
 
 ## 관련 자료
 * Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgyY)
