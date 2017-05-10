@@ -1,8 +1,8 @@
 # Biscuit - Programmable Wi-Fi 9-Axis Absolute Orientation Sensor
-The BiscuitTM is an integrated module consisting of 3 dimensional motion sensor and Wi-Fi communication module.</br>
-The 3 dimensional motion sensor includes Accelerometer, Gyroscope and Geomagnetic sensor. </br>
-The BiscuitTM provides 3-axis absolute orientation in the format of Quaternion, Euler Angle or Rotation Vector as well as Linear Acceleration, Gravity, Heading and Temperature.</br>
-The Wi-Fi module has an inherent micro controller unit (MCU) on which users can download their own programs developed on separate development environment (IDE).</br>
+The BiscuitTM is an integrated module consisting of 3 dimensional motion sensor and Wi-Fi communication module.</br></br>
+The 3 dimensional motion sensor includes Accelerometer, Gyroscope and Geomagnetic sensor. </br></br>
+The BiscuitTM provides 3-axis absolute orientation in the format of Quaternion, Euler Angle or Rotation Vector as well as Linear Acceleration, Gravity, Heading and Temperature.</br></br>
+The Wi-Fi module has an inherent micro controller unit (MCU) on which users can download their own programs developed on separate development environment (IDE).</br></br>
 The BiscuitTM can be operated using USB bus power or battery to be used as an independent device untethered to a host.</br>
 
 
