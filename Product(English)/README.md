@@ -6,41 +6,48 @@ The Wi-Fi module has an inherent micro controller unit (MCU) on which users can 
 The BiscuitTM can be operated using USB bus power or battery to be used as an independent device untethered to a host.</br>
 
 
-## 특징
-### 센서 데이터
-* 3축 직선 가속도(Linear Acceleration)
-* 3축 각속도(Angular Rate)
-* 3축 방향: 쿼터니언(Quaternion) 또는 오일러 방향(Euler Angle) 선택 가능
-* 방위각(Heading)
-* 온도
+## Specifications
+### Sensor Data
+* 3-Axis Gyroscope
+* 3-Axis Accelerometer
+* 3-Axis Geomagnetic Sensor
+* 3-Axis Orientation: Quaternion, Euler Angle, Rotation Vector
+* Linear Acceleration
+* Gravity
+* Heading
+* Temperature
 
-### 센서 성능
-* 가속도 센서 측정 범위: ±2g, ±4g, ±8g, ±16g 선택 가능
-* 가속도 센서 해상도: 14 bit
-* 자이로스코프 센서 측정 범위: ±125°/s, ±250°/s, ±500°/s, ±1000°/s, ±2000°/s 선택 가능
-* 자이로스코프 센서 해상도: 16 bit
-* 지자기 센서 측정 범위: ±1300µT (x, y 축), ±2500µT (z 축)
-* 지자기 센서 해상도: x / y / z 축에 대해 13 / 13 / 15 bit
+### Sensor Performance
+* Accelerometer Ranges: ±2g, ±4g, ±8g, ±16g selectable
+* Accelerometer Resolution: 14 bit
+* Gyroscope Ranges: ±125°/s, ±250°/s, ±500°/s, ±1000°/s, ±2000°/s selectable
+* Gyroscope Resolution: 16 bit
+* Geomagnetic Sensor Ranges: ±1300µT (x, y axis), ±2500µT (z axis)
+* Geomagnetic Sensor Resolution: 13 / 13 / 15 bits for x / y / z axes
 
-### Wi-Fi 통신
-* 프로토콜: 802.11 b/g/n
+### Wi-Fi
+* Protocol: 802.11 b/g/n
+* Frequency: 2.4 GHz band
 
-### 내장 MCU
+### MCU
 * CPU: 32-bit, 80 MHz
 * Flash Memory: 2 MB
 
-### 지원 IDE
+### IDE
 * Arduino IDE
 
-### 전원
-* 소모 전력: 75mA(센서 및 Wi-Fi 비사용시)
+### Size
+* 25 mm x 48 mm (PCB)
 
-## 외형
+### Power
+* USB Bus or Battery Operated
+* Consumption: 75 mA (sensors and Wi-Fi turned-off)
+* Input Voltage: 3.7 ~ 5.0 V
 
-### 보드 Layout
+### Board Layout
 ![ScreenShot](Images/Layout.PNG)
 
-### 외부
+### Exterior
 ![ScreenShot](Images/Biscuit.jpg)
 ![ScreenShot](Images/Biscuit_Battery.jpg)
 
