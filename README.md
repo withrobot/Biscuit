@@ -43,8 +43,7 @@ Biscuit은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 센�
 ![ScreenShot](Images/Biscuit.jpg)
 ![ScreenShot](Images/Biscuit_Battery.jpg)
 ![ScreenShot](Images/Battery_connection_kr.PNG)
-
-##Warning!
+## Warning!
 Incorrect battery connection can damage the Biscuit™.</br>
 If your battery has different outputs from the one shown on the above picture, please use the accompanied cable to switch the polarity.
 
