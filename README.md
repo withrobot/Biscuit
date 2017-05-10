@@ -44,7 +44,7 @@ Biscuit은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 센�
 ![ScreenShot](Images/Biscuit_Battery.jpg)
 ![ScreenShot](Images/Battery_connection_kr.PNG)
 ## 주의 사항
-배터리의 극성을 잘못 연결하면 BiscuitTM이 손상될 수 있습니다.</br>
+배터리의 극성을 잘못 연결하면 Biscuit™이 손상될 수 있습니다.</br>
 사용하려는 배터리의 극성이 위의 사진과 다른 경우에는 동봉된 교차 연결용 케이블을 사용하여 맞게 연결해 주십시오.
 
 ## 관련 자료
