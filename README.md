@@ -44,8 +44,8 @@ Biscuit은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 센�
 ![ScreenShot](Images/Biscuit_Battery.jpg)
 ![ScreenShot](Images/Battery_connection_kr.PNG)
 ## Warning!
-Incorrect battery connection can damage the Biscuit™.</br>
-If your battery has different outputs from the one shown on the above picture, please use the accompanied cable to switch the polarity.
+배터리의 극성을 잘못 연결하면 BiscuitTM이 손상될 수 있습니다.</br>
+사용하려는 배터리의 극성이 위의 사진과 다른 경우에는 동봉된 교차 연결용 케이블을 사용하여 맞게 연결해 주십시오.
 
 ## 관련 자료
 * 사용법 동영상 1: Arduino IDE 설치와 보드 설정: (https://youtu.be/6LCguMKGgyY)
