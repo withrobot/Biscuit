@@ -49,7 +49,7 @@ Biscuit™은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 �
 
 ## 관련 자료
 * 사용법 동영상 1: Arduino IDE 설치와 보드 설정: (https://youtu.be/6LCguMKGgyY)
-* 사용법 동영상 1-1: Windows 7에서 Biscuit 디바이스 드라이버 설치하기: (https://youtu.be/whfFNCH7KTk)
+* 사용법 동영상 1-1: Windows 7에서 Biscuit™ 디바이스 드라이버 설치하기: (https://youtu.be/whfFNCH7KTk)
 * 사용법 동영상 2-A: Library Manager를 이용하여 라이브러리 설치하기: (https://youtu.be/Scuj9SRVPwY)
 * 사용법 동영상 2-B: 라이브러리 직접 설치하기: (https://youtu.be/OV9ARozB2uk)
 * 9축 센서(BNO055) 자료: https://www.bosch-sensortec.com/bst/products/all_products/bno055
