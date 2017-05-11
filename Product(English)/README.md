@@ -1,9 +1,9 @@
 # Biscuit™ - Programmable Wi-Fi 9-Axis Absolute Orientation Sensor
 The Biscuit™ is an integrated module consisting of 3 dimensional motion sensor and Wi-Fi communication module.</br></br>
 The 3 dimensional motion sensor includes Accelerometer, Gyroscope and Geomagnetic sensor. </br></br>
-The BiscuitTM provides 3-axis absolute orientation in the format of Quaternion, Euler Angle or Rotation Vector as well as Linear Acceleration, Gravity, Heading and Temperature.</br></br>
+The Biscuit™ provides 3-axis absolute orientation in the format of Quaternion, Euler Angle or Rotation Vector as well as Linear Acceleration, Gravity, Heading and Temperature.</br></br>
 The Wi-Fi module has an inherent micro controller unit (MCU) on which users can download their own programs developed on separate development environment (IDE).</br></br>
-The BiscuitTM can be operated using USB bus power or battery to be used as an independent device untethered to a host.</br>
+The Biscuit™ can be operated using USB bus power or battery to be used as an independent device untethered to a host.</br>
 
 
 ## Specifications
@@ -57,7 +57,7 @@ If your battery has different outputs from the one shown on the above picture, p
 
 ## Tutorials and References
 * Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgyY)
-* How to install the driver for BiscuitTM on Windows 7: (https://youtu.be/whfFNCH7KTk)
+* How to install the driver for Biscuit™ on Windows 7: (https://youtu.be/whfFNCH7KTk)
 * Library installation using the Library Manager: (https://youtu.be/Scuj9SRVPwY) 
 * Manual installation of libraries: (https://youtu.be/OV9ARozB2uk)
 * Description of the 9-axis absolute orientation sensor - BNO055: (https://www.bosch-sensortec.com/bst/products/all_products/bno055)
