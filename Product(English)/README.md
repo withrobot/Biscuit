@@ -54,6 +54,7 @@ The Biscuit™ can be operated using USB bus power or battery to be used as an i
 ## Warning!!
 Incorrect battery connection can damage the Biscuit™.</br>
 If your battery has different outputs from the one shown on the above picture, please use the accompanied cable to switch the polarity.
+* Compatible Battery Connector: Molex 51021-0200
 
 ## Tutorials and References
 * Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgyY)
