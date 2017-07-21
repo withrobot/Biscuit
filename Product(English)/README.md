@@ -56,6 +56,11 @@ Incorrect battery connection can damage the Biscuit™.</br>
 If your battery has different outputs from the one shown on the above picture, please use the accompanied cable to switch the polarity.
 * Compatible Battery Connector: Molex 51021-0200
 
+## WiFi Mouse using Biscuit™
+![ScreenShot](../Images/WiFiMouse.jpg)
+
+
+
 ## Tutorials and References
 * Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgyY)
 * How to install the driver for Biscuit™ on Windows 7: (https://youtu.be/whfFNCH7KTk)
