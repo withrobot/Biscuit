@@ -57,7 +57,7 @@ If your battery has different outputs from the one shown on the above picture, p
 * Compatible Battery Connector: Molex 51021-0200
 
 ## WiFi Mouse using Biscuit™
-![ScreenShot](../Images/WiFiMouse.jpg)
+[![ScreenShot](../Images/WiFiMouse.jpg)](https://youtu.be/E4BPJ5338vQ)
 
 
 
