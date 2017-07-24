@@ -48,6 +48,9 @@ Biscuit™은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 �
 사용하려는 배터리의 극성이 위의 사진과 다른 경우에는 동봉된 교차 연결용 케이블을 사용하여 맞게 연결해 주십시오.
 * 호환 배터리 커넥터: Molex 51021-0200
 
+## WiFi Mouse using Biscuit™
+[![ScreenShot](../Images/WiFiMouse.jpg)](https://youtu.be/E4BPJ5338vQ)
+
 ## 관련 자료
 * 사용법 동영상 1: Arduino IDE 설치와 보드 설정: (https://youtu.be/6LCguMKGgyY)
 * 사용법 동영상 1-1: Windows 7에서 Biscuit™ 디바이스 드라이버 설치하기: (https://youtu.be/whfFNCH7KTk)
