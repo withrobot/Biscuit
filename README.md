@@ -49,7 +49,7 @@ Biscuit™은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 �
 * 호환 배터리 커넥터: Molex 51021-0200
 
 ## WiFi Mouse using Biscuit™
-[![ScreenShot](../Images/WiFiMouse.jpg)](https://youtu.be/E4BPJ5338vQ)
+[![ScreenShot](Images/WiFiMouse.jpg)](https://youtu.be/E4BPJ5338vQ)
 
 ## 관련 자료
 * 사용법 동영상 1: Arduino IDE 설치와 보드 설정: (https://youtu.be/6LCguMKGgyY)
