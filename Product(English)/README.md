@@ -57,15 +57,15 @@ If your battery has different outputs from the one shown on the above picture, p
 * Compatible Battery Connector: Molex 51021-0200
 
 ## WiFi Mouse using Biscuit™
-[![ScreenShot](../Images/WiFiMouse.jpg)](https://youtu.be/E4BPJ5338vQ)
+[![ScreenShot](../Images/WiFiMouse.jpg)](https://youtu.be/9OJVtcraoXA)
 
 
 
 ## Tutorials and References
-* Arduino IDE installation and board configuration: (https://youtu.be/6LCguMKGgyY)
-* How to install the driver for Biscuit™ on Windows 7: (https://youtu.be/whfFNCH7KTk)
-* Library installation using the Library Manager: (https://youtu.be/Scuj9SRVPwY) 
-* Manual installation of libraries: (https://youtu.be/OV9ARozB2uk)
+* Arduino IDE installation and board configuration: (https://youtu.be/pXD120xqXw0)
+* How to install the driver for Biscuit™ on Windows 7: (https://youtu.be/hremzLPCogg)
+* Library installation using the Library Manager: (https://youtu.be/jACYtPbWhQc) 
+* Manual installation of libraries: (https://youtu.be/EmTX-4w93Qg)
 * Description of the 9-axis absolute orientation sensor - BNO055: (https://www.bosch-sensortec.com/bst/products/all_products/bno055)
 * Document of the Wi-Fi module - ESP-WROOM-02: (https://espressif.com/en/support/download/documents)
 
