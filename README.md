@@ -48,11 +48,14 @@ Biscuit™은 가속도 센서, 자이로 센서, 지자기 센서 등의 9축 �
 사용하려는 배터리의 극성이 위의 사진과 다른 경우에는 동봉된 교차 연결용 케이블을 사용하여 맞게 연결해 주십시오.
 * 호환 배터리 커넥터: Molex 51021-0200
 
+## WiFi Mouse using Biscuit™
+[![ScreenShot](Images/WiFiMouse.jpg)](https://youtu.be/9OJVtcraoXA)
+
 ## 관련 자료
-* 사용법 동영상 1: Arduino IDE 설치와 보드 설정: (https://youtu.be/6LCguMKGgyY)
-* 사용법 동영상 1-1: Windows 7에서 Biscuit™ 디바이스 드라이버 설치하기: (https://youtu.be/whfFNCH7KTk)
-* 사용법 동영상 2-A: Library Manager를 이용하여 라이브러리 설치하기: (https://youtu.be/Scuj9SRVPwY)
-* 사용법 동영상 2-B: 라이브러리 직접 설치하기: (https://youtu.be/OV9ARozB2uk)
+* 사용법 동영상 1: Arduino IDE 설치와 보드 설정: (https://youtu.be/pXD120xqXw0)
+* 사용법 동영상 1-1: Windows 7에서 Biscuit™ 디바이스 드라이버 설치하기: (https://youtu.be/hremzLPCogg)
+* 사용법 동영상 2-A: Library Manager를 이용하여 라이브러리 설치하기: (https://youtu.be/jACYtPbWhQc)
+* 사용법 동영상 2-B: 라이브러리 직접 설치하기: (https://youtu.be/EmTX-4w93Qg)
 * 9축 센서(BNO055) 자료: https://www.bosch-sensortec.com/bst/products/all_products/bno055
 * Wi-Fi 모듈(ESP-WROOM-02) 자료: https://espressif.com/en/support/download/documents
 
